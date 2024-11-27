@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+.App {
+  text-align: center;
+}
+form input {
+  margin: 5px;
+}
+.completed {
+  text-decoration: line-through;
+}
